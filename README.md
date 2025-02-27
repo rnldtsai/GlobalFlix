@@ -20,6 +20,7 @@ You need to update the PHP upload file size using the command:
 Update the following two settings: 
 
   post_max_size = 128M
+  
   upload_max_filesize = 128M
 
 After the, please restart your apache:
