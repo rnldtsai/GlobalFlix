@@ -26,3 +26,5 @@ Update the following two settings:
 After the, please restart your apache:
 
   sudo service apache2 restart
+
+4. One known bug is that if your uploaded file name contains special characters, such as ' and ", it may cause a processing error. Please try changing the filename to one without special characters if you encounter this issue.
