@@ -5,7 +5,7 @@ You can find the source codes of my GlobalFlix demo in this repository. The know
 
 1. Install LAMP in yuor Ubuntu, check the tutorial below. Also check my posted video recording!
 
-https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu
+  https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu
 
 2. I encountered some errors. How can I check the error message in the system?
 
